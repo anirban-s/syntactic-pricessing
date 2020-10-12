@@ -1,1 +1,1 @@
-# syntactic-pricessing
+# syntactic-processing
